@@ -1,3 +1,8 @@
+NOTE: this needs the git repo https://github.com/ddrown/teensy_usb_android installed as your $ARDUINO_HOME/hardware/teensy/cores/usb_hid/ (be sure to save the previous contents!)
+
+This needs the library LiquidCrystal_I2C (see http://www.dfrobot.com/wiki/index.php/I2C_TWI_LCD2004_(SKU:DFR0154) )
+as well as the library IRremote (see https://github.com/shirriff/Arduino-IRremote.git )
+
 remote used: LG remote AKB69491503
 
 remote button = keyboard button
